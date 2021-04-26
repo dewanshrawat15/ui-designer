@@ -122,3 +122,11 @@ body{
 .contact-text{
 	font-weight: 300;
 }
+
+.contact-line-icon{
+	font-size: 25px!important;
+	transition: 750ms;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: #13171c;
+}
