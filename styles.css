@@ -48,6 +48,7 @@ body{
 }
 
 .about-container-wrapper h1{
+	color: #6e89ff;
 	font-weight: 600!important;
 	font-size: 54px;
 }
@@ -61,4 +62,63 @@ body{
 	background: #6e89ff;
 	font-weight: 600;
 	color: #fff;
+}
+
+.portfolio{
+	padding: 120px 0;
+	background: #f8f8f8;
+}
+
+.portfolio-container-wrapper{
+	padding: 48px 0;
+}
+
+.portfolio-container-wrapper h1{
+	font-weight: 600!important;
+	color: #6e89ff;
+	font-size: 54px;
+}
+
+.portfolio-text{
+	font-weight: 300;
+}
+
+.project-title{
+	font-weight: 600;
+	color: #a944ff!important;
+}
+
+.project-text{
+	font-weight: 300;
+}
+
+.portfolio-website-title{
+	color: #4b76e5!important;
+}
+
+.polydian-website-title{
+	color: #ffa945!important;
+}
+
+.thoughts-website-title{
+	color: #ff495b!important;
+}
+
+.contact{
+	padding: 90px 0;
+}
+
+
+.contact-container-wrapper{
+	padding: 42px 0;
+}
+
+.contact-container-wrapper h1{
+	color: #6e89ff;
+	font-weight: 600!important;
+	font-size: 54px;
+}
+
+.contact-text{
+	font-weight: 300;
 }
